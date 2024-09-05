@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 11 16:28:06 2024
-
-@author: fisch
-"""
 
 import yfinance as yf
 from datetime import datetime, timedelta
